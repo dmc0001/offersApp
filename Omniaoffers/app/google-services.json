@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359409719599",
+    "project_id": "omniaoffers-aba59",
+    "storage_bucket": "omniaoffers-aba59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359409719599:android:cca0e995083c832226a9da",
+        "android_client_info": {
+          "package_name": "com.yousef_shora.omniaoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359409719599-jdf201sadf684nl1335hbjne8d8ovdgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvIOufhCAsODU6hC_WKzV_WEaq6Z3j3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359409719599-jdf201sadf684nl1335hbjne8d8ovdgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

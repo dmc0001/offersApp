@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniaClient</string>
+    <string name="default_notification_channel_id" />
+    <string name="no_description">no description</string>
+    <string name="services">services</string>
+    <string name="filter_title">Filter Title</string>
+</resources>
